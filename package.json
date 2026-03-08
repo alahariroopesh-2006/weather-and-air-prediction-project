@@ -1,0 +1,17 @@
+{
+  "name": "weather-detection-project",
+  "version": "1.0.0",
+  "description": "Professional weather detection dashboard",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.13.2",
+    "express": "^4.21.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
